@@ -1,8 +1,6 @@
-/
-*
-Walkthrough video: https://youtu.be/Cckbxb15Idc
-*
-/
+/*
+Walk through video: https://youtu.be/Cckbxb15Idc
+*/
 
 var reg = (el, n) => el ? elm[n] : '';
 var cn = (ob, nm) => ob.getElementsByClassName(nm);
