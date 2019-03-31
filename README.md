@@ -1,2 +1,1 @@
-# Tutorial_WebScraping
-//this is a series. stay turned for updates
+Learn JavaScript by building tools you actually want to use
