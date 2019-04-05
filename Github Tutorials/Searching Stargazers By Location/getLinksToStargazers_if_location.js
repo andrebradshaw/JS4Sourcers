@@ -2,7 +2,7 @@
 Walk through video: https://youtu.be/Cckbxb15Idc
 */
 
-var reg = (el, n) => el ? elm[n] : '';
+var reg = (el, n) => el ? el[n] : '';
 var cn = (ob, nm) => ob.getElementsByClassName(nm);
 var tn = (ob, nm) => ob.getElementsByTagName(nm);
 var gi = (ob, nm) => ob.getElementById(nm);
